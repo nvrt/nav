@@ -26,3 +26,8 @@ font-family: 'Roboto', sans-serif;
 #ff3 {
 font-family: 'Raleway', sans-serif;
 }
+
+#myPDF {
+	width: 85%;
+	height: 975px;
+}
