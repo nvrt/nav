@@ -1,17 +1,18 @@
 #bdr {
 	border-right: 1px solid grey;
-	padding:12px;
+	padding: 12px;
 
 }
+
 #bdrb {
 	border-bottom: 1px solid grey;
-	padding:10px;
+	padding: 2px;
 
 }
 
 #bdrt {
 	border-top: 1px solid grey;
-	padding:25px;
+	padding: 5px;
 
 }
 
@@ -20,11 +21,23 @@
 }
 
 #ff2 {
-font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 
 #ff3 {
-font-family: 'Raleway', sans-serif;
+	font-family: 'Raleway', sans-serif;
+}
+
+#ff4 {
+	font-family: 'Courier Prime', monospace;
+}
+
+#ff5 {
+	font-family: 'Comforter Brush', cursive;
+}
+
+#ff6 {
+	font-family: 'Comforter', cursive;
 }
 
 #myPDF {
